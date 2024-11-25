@@ -1,3 +1,3 @@
 # video teste
 
-![teste](login-teste.mp4)
+[teste](login-teste.mp4)
